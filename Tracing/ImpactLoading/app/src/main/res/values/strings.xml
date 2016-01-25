@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ImpactLoading</string>
+    <string name="title">Impact Loading</string>
+    <string name="new_session">New Session</string>
+    <string name="drop_down_title">Device Location:</string>
+    <string name="send_data_title">Where To Send Data:</string>
+    <string name="trials_title">Trials:</string>
+    <string name="begin_session">Begin Session</string>
+
+    <string-array name="device_location">
+        <item>Phone-Hand, A1-Arm, A2-Waist</item>
+        <item>Phone-Arm, A1-Waist, A2-Hand</item>
+        <item>Phone-Waist, A1-Hand, A2-Arm</item>
+    </string-array>
+
+    <string-array name="send_data">
+        <item>Internal Storage</item>
+    </string-array>
+
+    <string-array name="trials">
+        <item>Walk SS</item>
+        <item>Walk -0.5</item>
+        <item>Walk +0.5</item>
+        <item>Run SS</item>
+        <item>Run -0.5</item>
+        <item>Run +0.5</item>
+    </string-array>
+
+</resources>
